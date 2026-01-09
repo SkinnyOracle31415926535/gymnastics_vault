@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essentials/Friday Practice Meet Notes.md",
+                "file": "essentials/Calendar & Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Practice Meet Notes"
+              "title": "Calendar & Events"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "00e5c03737f2f5a5",
   "lastOpenFiles": [
+    "essentials/Friday Practice Meet Notes.md",
     "essentials/Calendar & Events.md",
     "logistics/Ryan's Hours.md",
     "code of points/USAG Compulsory Routines/Level 3.md",

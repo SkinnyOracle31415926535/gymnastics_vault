@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annual Review Notes.md",
+                "file": "references/Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual Review Notes"
+              "title": "Schedule"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "30295df680604394",
   "lastOpenFiles": [
-    "essentials/Parent Notes.md",
+    "meeting notes/Parent Notes.md",
+    "meeting notes/Annual Review Notes.md",
+    "code of points/USAG Compulsory Routines/Level 3.md",
+    "code of points/USAG Compulsory Routines/Level 5.md",
     "Annual Review Notes.md",
     "meeting notes",
     "meeting nots",
@@ -217,9 +220,6 @@
     "daily/Level 3 routine improvements.md",
     "daily/Friday Practice Meet Notes.md",
     "daily/Calendar & Events.md",
-    "Coaching/Ryan's Hours.md",
-    "logistics/Ryan's Hours.md",
-    "NGA Meet Day Logistics.md",
-    "Schedule.md"
+    "Coaching/Ryan's Hours.md"
   ]
 }
