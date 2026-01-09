@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essentials/Parent Notes.md",
+                "file": "Annual Review Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parent Notes"
+              "title": "Annual Review Notes"
             }
           }
         ]
@@ -186,6 +186,9 @@
   "active": "30295df680604394",
   "lastOpenFiles": [
     "essentials/Parent Notes.md",
+    "Annual Review Notes.md",
+    "meeting notes",
+    "meeting nots",
     "coaching tips",
     "essentials/USAG Meet Day Logistics.md",
     "references/Team Warm-Up & Stretch.md",
@@ -214,12 +217,9 @@
     "daily/Level 3 routine improvements.md",
     "daily/Friday Practice Meet Notes.md",
     "daily/Calendar & Events.md",
-    "daily",
-    "daily refs",
     "Coaching/Ryan's Hours.md",
     "logistics/Ryan's Hours.md",
     "NGA Meet Day Logistics.md",
-    "Schedule.md",
-    "USAG Meet Day Logistics.md"
+    "Schedule.md"
   ]
 }
