@@ -79,12 +79,23 @@ Pleasanton, CA 94566
 | ------- | -------- | -------- | ------ |
 | Boys 3N | 8:00 AM  | 7:45 AM  | Orange |
 | Boys 4N | 10:45 AM | 10:30 AM | Orange |
-### Boys NGA In-House Meet (TBD)
-**Location:** Race St
+### Boys NGA In-House Meet — ❌ CANCELLED
+**Original Proposal:** Race St, Feb 7 or Feb 21
 
-**Potential Dates:** Feb 7 or Feb 21 around 4:00 PM
+> **Status:** Formal in-house meet **declined** by Coach Sage.
 
-> Planning in progress -- both sites together, routines judged informally.
+#### What Happened:
+- Katelyn proposed a February in-house meet at Race St (no official meets that month, limited Great Oaks availability)
+- Timing constraints discussed (USAG girls meets, premium pay, judging availability)
+- Katelyn asked Sage and Ryan to lead planning if it moved forward
+- **Coach Sage declined** — February will be used for skill refinement and routine upgrades ahead of Silicon Valley Invite
+
+#### Alternative Plan:
+✅ **Low-key, informal practice competition** between Race St & Great Oaks  
+📅 **Timing:** Late February (during practice, not a formal event)  
+📋 **Details:** To be discussed separately with Coach Ryan
+
+**Bottom Line:** No formal February in-house meet. Instead, an informal internal comparison during practice later in the month.
 
 ---
 ## -- Future Events --
