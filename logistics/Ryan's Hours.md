@@ -63,22 +63,22 @@
 ## 𓊈 Week 4: Jan 24-30, 2026 𓊉
 ⋆ · ☆ · ⋆
 
-| Day | Date | Time | Hours | Notes |
-|-----|------|------|-------|-------|
-| Sat | 1/24 | 8:45-12:00 | 3.25 | |
-| Sun | 1/25 | 4:00-4:45 | 0.75 | Travel to Stanford |
-| | | 5:15-9:00 | 3.75 | **Stanford** -- Level 3 session |
-| | | 9:00-9:45 | 0.75 | Travel home |
-| | | **Total** | **5.25** | |
-| Mon | 1/26 | 3:15-5:30 | 2.25 | [!] Fill out absent form |
-| Tue | 1/27 | 3:15-8:15 | 5.00 | |
-| Wed | 1/28 | 3:15-7:30 | 4.25 | |
-| Thu | 1/29 | -- | OFF | [!] Fill out absent form |
-| Fri | 1/30 | 10:15-11:00 | 0.75 | Travel to Watsonville |
-| | | 11:30-2:30 | 3.00 | **Ohana Surf Classic** -- Level 3 session |
-| | | 2:30-3:15 | 0.75 | Travel home |
-| | | 5:30-7:30 | 2.00 | Great Oaks B. NGA |
-| | | **Total** | **6.50** | |
+| Day | Date | Time        | Hours    | Notes                                     |
+| --- | ---- | ----------- | -------- | ----------------------------------------- |
+| Sat | 1/24 | 8:45-12:00  | 3.25     |                                           |
+| Sun | 1/25 | 4:00-4:45   | 0.75     | Travel to Stanford                        |
+|     |      | 5:15-9:00   | 3.75     | **Stanford** -- Level 3 session           |
+|     |      | 9:00-9:45   | 0.75     | Travel home                               |
+|     |      | **Total**   | **5.25** |                                           |
+| Mon | 1/26 | 3:15-5:30   | 2.25     | [!] Fill out absent form                  |
+| Tue | 1/27 | 3:15-8:15   | 5.00     |                                           |
+| Wed | 1/28 | 3:15-7:30   | 4.25     |                                           |
+| Thu | 1/29 | --          | OFF      | [!] Fill out absent form                  |
+| Fri | 1/30 | 10:15-11:00 | 0.75     | Travel to Watsonville                     |
+|     |      | 11:30-2:30  | 3.00     | **Ohana Surf Classic** -- Level 3 session |
+|     |      | 2:30-3:15   | 0.75     | Travel home                               |
+|     |      | 5:30-7:30   | 2.00     | Great Oaks B. NGA                         |
+|     |      | **Total**   | **6.50** |                                           |
 
 **Week Total:** 26.50 (+ admin)
 

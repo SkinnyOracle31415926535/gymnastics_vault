@@ -22,6 +22,40 @@
 | Floor, Vault | **Shorts, no socks** |
 
 ---
+## 𓊈 Pre-Meet Speech 𓊉
+⋆ · ☆ · ⋆
+
+### Key Messages
+- "We're here to **show off** what we worked hard on during practice"
+- "You've practiced this so many times so just trust yourself"
+- "I  you guys stay focused today but I also hope you also have fun"
+
+### For the Nervous Athletes
+- "It's okay to be nervous -- it means you care"
+- "Everyone gets nervous, even Olympic gymnasts"
+- "Take a deep breath -- in through your nose, out through your mouth"
+- "Focus on one skill at a time"
+- "This is the first meet for all of you. Treat it like an experiment. There is no pressure and no expectation of perfection. No matter what happens, it is okay. What matters most is that you pay attention, stay present, and learn from this experience so we can use those lessons moving forward."
+
+### If a Child Is Too Nervous to Compete
+
+> **Script:**
+> 
+> "Hey, I get it. It's scary. A lot of people are watching and it feels like a big deal. But here's the thing -- you've done this routine so many times in practice. 
+> 
+> You don't have to be perfect. Nobody is perfect. All I'm asking is that you go out there and try your best. That's it.
+> 
+> And guess what? No matter what happens, I'm going to be proud of you just for being brave enough to be here today. That takes courage.
+> 
+> If you mess up, that's okay. We all mess up. What matters is that you tried.
+> 
+> I'll be right here the whole time. You're not alone.
+
+### If They Still Won't Go
+- "It's okay. Let's just watch this round and see how you feel"
+- Give them space but stay close
+- Don't force it -- sometimes just watching helps them feel ready for the next event
+---
 ## 𓊈 Competition Warmup 𓊉
 
 - complete the team warm up and stretch
@@ -111,7 +145,7 @@
 - "Tight fingers"
 - "Point your toes"
 - "Stick it"
-- "Big finish -- present!"
+- "finish -- present!"
 - "You've got this"
 - "Just like practice"
 - "Show them what you can do"
@@ -119,46 +153,7 @@
 ### During Routine (if allowed)
 - "Good!"
 - "Keep going"
-- "Finish strong"
-
----
-
-## 𓊈 Pre-Meet Speech 𓊉
-⋆ · ☆ · ⋆
-
-### Key Messages
-- "We're here to **show off** what we worked hard on during practice"
-- "You've practiced this so many times -- just trust yourself"
-- "I hope you guys stay focused today but I also hope you also have fun"
-
-### For the Nervous Athletes
-- "It's okay to be nervous -- it means you care"
-- "Everyone gets nervous, even Olympic gymnasts"
-- "Take a deep breath -- in through your nose, out through your mouth"
-- "Focus on one skill at a time, not the whole routine"
-- "This is the first meet for all of you. Treat it like an experiment. There is no pressure and no expectation of perfection. No matter what happens, it is okay. What matters most is that you pay attention, stay present, and learn from this experience so we can use those lessons moving forward."
-
-### If a Child Is Too Nervous to Compete
-
-> **Script:**
-> 
-> "Hey, I get it. It's scary. A lot of people are watching and it feels like a big deal. But here's the thing -- you've done this routine so many times in practice. Your body already knows how to do it.
-> 
-> You don't have to be perfect. Nobody is perfect. All I'm asking is that you go out there and try your best. That's it.
-> 
-> And guess what? No matter what happens, I'm going to be proud of you just for being brave enough to be here today. That takes courage.
-> 
-> If you mess up, that's okay. We all mess up. What matters is that you tried.
-> 
-> I'll be right here the whole time. You're not alone.
-> 
-> Do you want to take a few deep breaths with me? ... Okay, let's go show them what you've got."
-
-### If They Still Won't Go
-- Stay calm and supportive
-- "It's okay. Let's just watch this round and see how you feel"
-- Give them space but stay close
-- Don't force it -- sometimes just watching helps them feel ready for the next event
+- "Finish strong" 
 
 ---
 
@@ -173,13 +168,13 @@
 > 
 > Before we go to awards, I want to say something important.
 > 
-> It does **not matter** what place you get. What matters is that you **tried your best** today. And I saw all of you go out there and give it everything you had.
+> It does **not matter** what place you get. What matters is that you **tried your best** today. 
 > 
-> If we win something, that's going to be awesome -- we'll celebrate! But if we don't, that's totally fine too. Medals don't define how good you are.
+> If we win something, that's going to be awesome ! But if we don't, that's ok too.
 > 
-> I hope you learned a lot today. Every meet teaches us something new. Use this experience to make your gymnastics even better.
+> I hope you learned a lot today. Every meet teaches us something new. I hope you use this experience to make your gymnastics even better.
 > 
-> I'm proud of every single one of you. Now let's go see how we did!"
+> I'm proud of every single one of you! You guys did great"
 
 ### Getting Ready
 - **Put your warm-ups back on**
@@ -209,11 +204,9 @@
 > 
 > I know we didn't get the team banner this time, and that's okay. That's not what today was about.
 > 
-> What matters is that every single one of you went out there and competed. You showed courage. You did your routines in front of judges, in front of a crowd, in a gym you've never been to before. That's hard! And you did it.
+> What matters is that every single one of you went out there and competed. You showed courage. You did your routines in front of judges and a crowd, in a gym you've never been to before. That's hard! especially for your first time. And you did it.
 > 
 > I want you to remember what we learned today. Think about what felt good, and think about what you want to work on. Every meet teaches us something. Take what you learned and use it to get even better.
-> 
-> We're going to keep practicing, keep improving, and keep getting stronger as a team. This was just the beginning.
 > 
 > I'm really proud of all of you. You should be proud of yourselves too.
 > 
