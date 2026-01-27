@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meet results/west coast classic 2026/West Coast Classic 2026 Reflections.md",
+                "file": "essentials/Calendar & Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "West Coast Classic 2026 Reflections"
+              "title": "Calendar & Events"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "30295df680604394",
   "lastOpenFiles": [
-    "meet results/west coast classic 2026/West Coast Classic 2026 Results.md",
+    "meet results/stanford open 2026/Stanford Open 2026 Results.md",
+    "meet results/stanford open 2026",
     "meet results/west coast classic 2026/West Coast Classic 2026 Reflections.md",
+    "meet results/west coast classic 2026/West Coast Classic 2026 Results.md",
     "Rotation_Schedule.md",
     "Team Warm-Up & Stretch.md",
     "logistics/Ryan's Hours.md",
@@ -218,8 +220,6 @@
     "refferences/Schedule.md",
     "refferences",
     "archive/L3_01-06-2026.md",
-    "L3_01-06-2026.md",
-    "Pre-Meet Practice Notes.md",
-    "archive/L3::01/06"
+    "L3_01-06-2026.md"
   ]
 }
