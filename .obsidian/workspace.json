@@ -11,14 +11,10 @@
             "id": "30295df680604394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essentials/Calendar & Events.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Calendar & Events"
+              "title": "New tab"
             }
           }
         ]
@@ -185,6 +181,16 @@
   },
   "active": "30295df680604394",
   "lastOpenFiles": [
+    "meet results/stanford open 2026/Stanford Open 2026 All-Around Rankings.md",
+    "meet results/stanford open 2026/Stanford Open 2026 CSC Scores.md",
+    "meet results/stanford open 2026/Stanford Open 2026 Team Results.md",
+    "meet results/stanford open 2026/Stanford_Open_2026_Complete_Meet_Results_ALL.md",
+    "notes/USAG Meet Day Logistics.md",
+    "notes/NGA Meet Day Logistics.md",
+    "notes/Level 3 routine improvements.md",
+    "notes",
+    "essentials/Calendar & Events.md",
+    "Calendar & Events.md",
     "meet results/stanford open 2026/Stanford Open 2026 Results.md",
     "meet results/stanford open 2026",
     "meet results/west coast classic 2026/West Coast Classic 2026 Reflections.md",
@@ -206,20 +212,10 @@
     "meeting notes/Parent Notes.md",
     "meeting notes/Annual Review Notes.md",
     "code of points/USAG Compulsory Routines/Level 3.md",
-    "code of points/USAG Compulsory Routines/Level 5.md",
-    "Annual Review Notes.md",
     "meeting notes",
     "meeting nots",
     "coaching tips",
-    "essentials/USAG Meet Day Logistics.md",
     "references",
-    "reffrences/Team Warm-Up & Stretch.md",
-    "reffrences/Schedule.md",
-    "reffrences",
-    "refferences/Team Warm-Up & Stretch.md",
-    "refferences/Schedule.md",
-    "refferences",
-    "archive/L3_01-06-2026.md",
-    "L3_01-06-2026.md"
+    "reffrences"
   ]
 }
