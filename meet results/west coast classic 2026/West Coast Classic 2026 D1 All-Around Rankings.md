@@ -1,44 +1,18 @@
-# West Coast Classic 2026 Results
+# West Coast Classic 2026 — Level 3 Division 1 All-Around Rankings
 **Date:** January 11, 2026  
 **Session:** 5  
-**Level:** 3
+**Level:** 3D1
 
 ---
 
-## Team Standings (Top 3 AA Scores)
-
-| Place | Team | Top 3 Gymnasts | Team Score |
-|-------|------|----------------|------------|
-| 🥇 1 | **Accel - NC** | Krashinsky (53.9), Reed (53.5), Lotsvin (53.2) | **160.600** |
-| 🥈 2 | **Clovis Academy** | Warkentin (54.7), Adams (52.8), Stabbe (52.5) | **160.000** |
-| 🥉 3 | **IGC - NC** | Malhi (53.4), Rojas (52.7), Lin (52.2) | **158.300** |
-| 4 | **Cal Sports Ctr** | Osipov (54.2), Jackson (52.5), Muolic (50.8) | **157.500** |
-| 5 | **HOH - NC** | Bolton (53.9), Hacker (52.1), Collins (50.0) | **156.000** |
-| 6 | **EGA - NC** | Hak (49.2), Fujii (48.1), del Pozo (47.8) | **145.100** |
-| 7 | **CCG - SLO - NC** | Railsback (49.2), Zarate (48.4), Kowalczyk (46.7) | **144.300** |
-| 8 | **CAL Strong - NC** (D2) | Wong (51.0), Negrete Guillen (49.1), Teng (49.0) | **149.100** |
+## All-Around Podium (D1)
+🥇 **Ukiah Warkentin** (Clovis Academy) - 54.700  
+🥈 **Lev Osipov** (Cal Sports Ctr) - 54.200 ⭐  
+🥉 **Keller Krashinsky** (Accel - NC) - 53.900  
 
 ---
 
-## Cal Sports Center Results
-
-| Place | Gymnast         | DIV   | Floor | Pommel | Rings | Vault | P-Bars | High Bar | AA         |
-| ----- | --------------- | ----- | ----- | ------ | ----- | ----- | ------ | -------- | ---------- |
-| 2     | Lev Osipov      | 9 yrs | 8.800 | 9.300  | 9.200 | 9.600 | 8.600  | 8.700    | **54.200** |
-| 11    | Jace Jackson    | 9 yrs | 8.800 | 8.800  | 8.300 | 9.100 | 8.500  | 9.000    | **52.500** |
-| 16    | Kaleb Muolic    | 7 yrs | 8.100 | 9.100  | 8.500 | 9.000 | 8.600  | 7.500    | **50.800** |
-| 24    | Owen Lavrich    | 8 yrs | 7.000 | 8.300  | 8.000 | 9.100 | 8.600  | 8.100    | **49.100** |
-| 25    | Aaron Wei       | 8 yrs | 7.200 | 8.200  | 7.500 | 9.400 | 7.900  | 8.200    | **48.400** |
-| 32    | Sylvan Fedkiw   | 8 yrs | 7.200 | 7.600  | 8.200 | 9.200 | 8.300  | 7.000    | **47.500** |
-| 33    | Remy Vaughan    | 8 yrs | 7.400 | 7.800  | 7.800 | 8.900 | 7.500  | 7.900    | **47.300** |
-| 35    | Vlad Samoilenka | 9 yrs | 7.400 | 8.200  | 7.000 | 8.500 | 8.300  | 7.800    | **47.200** |
-| 37    | Aarush Kini     | 9 yrs | 7.300 | 8.400  | 7.200 | 8.800 | 7.300  | 7.900    | **46.900** |
-
-**Team Top 3 Total:** 157.500
-
----
-
-## Level 3 Division 1 (3D1) Results
+## Full Division 1 Results
 
 | Place | Gymnast | Team | DIV | Floor | Pommel | Rings | Vault | P-Bars | High Bar | AA |
 |-------|---------|------|-----|-------|--------|-------|-------|--------|----------|------|
@@ -94,71 +68,3 @@
 | 50 | Tavasi Ellis | EGA - NC | 9 yrs | 8.700 ⁶ | 7.600 ¹⁶ᵀ | 0 | 8.700 ¹⁶ | 8.000 ¹⁴ | 6.500 ¹⁸ | **39.500** |
 | — | Jackson Shakeshaft | HOH - NC | 8 yrs | — | — | — | — | — | — | **0** |
 | — | Kyson Liang | Technique - NC | 8 yrs | — | — | — | — | — | — | **0** |
-
----
-
-## Level 3 Division 2 (3D2) Results
-
-| Place | Gymnast | Team | DIV | Floor | Pommel | Rings | Vault | P-Bars | High Bar | AA |
-|-------|---------|------|-----|-------|--------|-------|-------|--------|----------|------|
-| 1 | Oliver Wong | CAL Strong - NC | D2 | 8.600 ¹ | 8.500 ¹ | 8.500 ¹ | 9.800 ¹ | 8.300 ² | 7.300 ⁴ | **51.000** |
-| 2 | Valentino Negrete Guillen | CAL Strong - NC | D2 | 8.100 ³ | 7.800 ⁴ | 8.000 ²ᵀ | 9.300 ³ | 8.200 ³ | 7.700 ²ᵀ | **49.100** |
-| 3 | Joshua Teng | CAL Strong - NC | D2 | 8.500 ² | 8.300 ² | 7.900 ⁴ | 8.200 ⁶ | 8.400 ¹ | 7.700 ²ᵀ | **49.000** |
-| 4 | Levi Christianson | CAL Strong - NC | D2 | 6.600 ⁵ | 8.000 ³ | 8.000 ²ᵀ | 9.400 ² | 7.200 ⁶ | 7.900 ¹ | **47.100** |
-| 5 | Ethan Kong | CAL Strong - NC | D2 | 6.800 ⁴ | 7.500 ⁵ | 7.000 ⁶ | 9.100 ⁴ | 7.600 ⁴ᵀ | 7.000 ⁵ | **45.000** |
-| 6 | John Litvinchuk | CAL Strong - NC | D2 | 6.000 ⁶ | 7.300 ⁶ | 7.300 ⁵ | 9.000 ⁵ | 7.600 ⁴ᵀ | 6.800 ⁶ | **44.000** |
-| — | Maksim ILchenko | CAL Strong - NC | D2 | — | — | — | — | — | — | **0** |
-
----
-
-## Event Highlights
-
-## Cal Sports Center Event Highlights
-
-### Floor
-- **Lev Osipov:** 8.800 (tied 3rd overall)
-- **Jace Jackson:** 8.800 (tied 3rd overall)
-- **Kaleb Muolic:** 8.100 (1st in 7 yrs division)
-
-### Pommel Horse
-- **Lev Osipov:** 9.300 (tied 2nd overall) ⭐
-- **Kaleb Muolic:** 9.100 (1st in 7 yrs division) ⭐
-- **Jace Jackson:** 8.800 (tied 3rd)
-
-### Rings
-- **Lev Osipov:** 9.200 (tied 2nd overall) ⭐
-- **Kaleb Muolic:** 8.500 (1st in 7 yrs division)
-- **Jace Jackson:** 8.300 (10th) — needs work
-
-### Vault
-- **Lev Osipov:** 9.600 (tied 2nd overall) ⭐
-- **Aaron Wei:** 9.400 (2nd in 8 yrs division) ⭐
-- **Sylvan Fedkiw:** 9.200 (tied 3rd in 8 yrs)
-- **Jace Jackson:** 9.100
-- **Owen Lavrich:** 9.100
-- **Kaleb Muolic:** 9.000
-
-### Parallel Bars
-- **Kaleb Muolic:** 8.600 (1st in 7 yrs division) ⭐
-- **Lev Osipov:** 8.600
-- **Owen Lavrich:** 8.600
-- **Jace Jackson:** 8.500
-
-### High Bar
-- **Jace Jackson:** 9.000 (TIED 1ST OVERALL) 🥇⭐
-- **Lev Osipov:** 8.700 (5th overall)
-- **Kaleb Muolic:** 7.500 — biggest area for improvement
-
----
-
-## All-Around Podium
-
-### Division 1 (3D1)
-🥇 **Ukiah Warkentin** (Clovis Academy) - 54.700  
-🥈 **Lev Osipov** (Cal Sports Ctr) - 54.200 ⭐  
-🥉 **Keller Krashinsky** (Accel - NC) - 53.900  
-
-### Division 2 (3D2)
-🥇 **Oliver Wong** (CAL Strong - NC) - 51.000  
-🥈 **Valentino Negrete Guillen** (CAL Strong - NC) - 49.100  
-🥉 **Joshua Teng** (CAL Strong - NC) - 49.000
